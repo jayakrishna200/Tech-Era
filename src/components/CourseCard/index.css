@@ -1,0 +1,27 @@
+.course-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0;
+  padding-bottom: 0px;
+  padding: 5px;
+  cursor: pointer;
+}
+.link-element {
+  height: 200px;
+  width: 200px;
+  text-decoration: none;
+}
+
+.course-name {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 10px;
+}
